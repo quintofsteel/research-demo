@@ -1,0 +1,5 @@
+
+{
+  "name": "Interpretable Pneumonia Detection",
+  "description": "A web-based demonstrator for an interpretable machine learning model that assesses multimodal fusion, generalization, and fairness for pneumonia detection in chest X-rays and clinical data, inspired by the HRCOS82 thesis."
+}
