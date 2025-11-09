@@ -1,3 +1,5 @@
+pip install streamlit torch torchvision pandas numpy opencv-python pydicom shap pytorch-grad-cam scikit-learn
+
 import streamlit as st
 import torch
 import torch.nn as nn
