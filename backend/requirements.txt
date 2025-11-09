@@ -1,0 +1,10 @@
+Flask
+Flask-Cors
+torch
+torchvision
+numpy
+Pillow
+scikit-learn
+grad-cam
+shap
+pydicom
